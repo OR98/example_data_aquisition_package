@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: example-data-aquisition-package
+Version: 0.0.1
+Summary: Package containing data aquisition modules.
+Home-page: https://test.pypi.org/project/_example_data_aquisition_package/
+Author: OR98
+Author-email: r.ouhmiz@gmail.com
+Project-URL: Bug Tracker, https://github.com/OR98/example_data_aquisition_package/issues
+Project-URL: repository, https://github.com/OR98/data_aquisition_package
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+** Package for data aquisition **
