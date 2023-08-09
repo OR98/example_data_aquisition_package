@@ -15,7 +15,7 @@ setuptools.setup(
     url = "https://test.pypi.org/project/_example_data_aquisition_package/",
     project_urls = {
         "Bug Tracker": "https://github.com/OR98/example_data_aquisition_package/issues",
-        "repository": "https://github.com/OR98/data_aquisition_package"
+        "repository": "https://github.com/OR98/example_data_aquisition_package"
     },
     classifiers = [
         "Programming Language :: Python :: 3",
